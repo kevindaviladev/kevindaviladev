@@ -1,8 +1,10 @@
 ### About me</strong>
 
-Google Developer Expert in Angular (GDE).
+
 Frontend developer with +3 years of experience in web development with technologies such as: Javascript, Typescript, PHP, NodeJS and mainly with Angular. I work mainly in the banking sector, Fintech and Regtech.
 I am passionate about software engineering and I seek to grow professionally every day, aiming to leave a mark on the people who interact with what I develop. Lover of Angular, Postgresql and frogs.
+Google Developer Expert in Angular (GDE).
+Microsoft Most Valuable Professional (MVP).
 
 ### How to reach me: <strong>(Click the badge to view my profiles.)</strong>
 
